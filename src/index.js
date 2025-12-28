@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 8080;
 app.use(
   cors({
     origin: [
-      'https://charanionlineexam.vercel.app',
+      'https://charani-onlinetest.vercel.app/',
       'http://localhost:3000',
       'http://localhost:5173',
     ],
