@@ -1,0 +1,26 @@
+{
+  "name": "online-exam-json",
+  "version": "1.0.0",
+  "description": "Online Exam Management System with JSON-based database",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exam",
+    "online",
+    "candidates",
+    "questions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.4.0"
+  },
+  "devDependencies": {}
+}

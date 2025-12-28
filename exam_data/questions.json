@@ -1,0 +1,1402 @@
+ [
+  {
+    "correctOption": "B",
+    "id": 61,
+    "optionA": "12 km",
+    "optionB": "16 km",
+    "optionC": "24 km",
+    "optionD": "32 km",
+    "question": "A man can row 6 km/hr in still water. If the speed of the current is 2 km/hr, it takes 4 hours more in upstream than in downstream for the same distance. Find the distance.",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "D",
+    "id": 62,
+    "optionA": "810",
+    "optionB": "1440",
+    "optionC": "2880",
+    "optionD": "50400",
+    "question": "In how many ways can the letters of the word \"CORPORATION\" be arranged so that the vowels always come together?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 63,
+    "optionA": "10/21",
+    "optionB": "11/21",
+    "optionC": "2/7",
+    "optionD": "5/7",
+    "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 64,
+    "optionA": "4",
+    "optionB": "12",
+    "optionC": "24",
+    "optionD": "54",
+    "question": "Find the largest number which when divides 99, 123 and 183 leaves the same remainder in each case.",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 65,
+    "optionA": "12 days",
+    "optionB": "15 days",
+    "optionC": "16 days",
+    "optionD": "18 days",
+    "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 66,
+    "optionA": "Rs. 625",
+    "optionB": "Rs. 630",
+    "optionC": "Rs. 640",
+    "optionD": "Rs. 650",
+    "question": "The difference between simple and compound interest compounded annually on a certain sum of money for 2 years at 4% per annum is Re 1. The sum is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 67,
+    "optionA": "6 years",
+    "optionB": "9 years",
+    "optionC": "12 years",
+    "optionD": "15 years",
+    "question": "A sum of money at compound interest amounts to thrice itself in 3 years. In how many years will it be 9 times itself?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 68,
+    "optionA": "20 hours",
+    "optionB": "25 hours",
+    "optionC": "35 hours",
+    "optionD": "45 hours",
+    "question": "A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 69,
+    "optionA": "9 sec",
+    "optionB": "10.8 sec",
+    "optionC": "12 sec",
+    "optionD": "15 sec",
+    "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time they take to cross each other is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 70,
+    "optionA": "3.46%",
+    "optionB": "4.5%",
+    "optionC": "5%",
+    "optionD": "6%",
+    "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 71,
+    "optionA": "0.934",
+    "optionB": "0.945",
+    "optionC": "0.954",
+    "optionD": "0.958",
+    "question": "If log 27 = 1.431, then the value of log 9 is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "D",
+    "id": 72,
+    "optionA": "2.3 m",
+    "optionB": "4.6 m",
+    "optionC": "7.8 m",
+    "optionD": "9.2 m",
+    "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 73,
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3/2",
+    "optionD": "4",
+    "question": "Find the value of $2^{1/4} cdot 4^{1/8} cdot 8^{1/16} cdot 16^{1/32} dots infty$.",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 74,
+    "optionA": "45:56",
+    "optionB": "50:61",
+    "optionC": "99:125",
+    "optionD": "None of these",
+    "question": "A shopkeeper earns a profit of 12% on selling a book at 10% discount on the printed price. The ratio for the cost price and the printed price of the book is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "D",
+    "id": 75,
+    "optionA": "25%",
+    "optionB": "40.5%",
+    "optionC": "55%",
+    "optionD": "56.25%",
+    "question": "If the side of a square is increased by 25%, then its area is increased by:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 76,
+    "optionA": "276",
+    "optionB": "299",
+    "optionC": "322",
+    "optionD": "345",
+    "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 77,
+    "optionA": "1/7",
+    "optionB": "7/25",
+    "optionC": "3/4",
+    "optionD": "None of these",
+    "question": "If $a/b = 4/5$ and $b/c = 15/16$, then $(c^2 - a^2)/(c^2 + a^2)$ is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 78,
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "10",
+    "question": "A motorboat, whose speed is 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 79,
+    "optionA": "210",
+    "optionB": "1050",
+    "optionC": "25200",
+    "optionD": "21300",
+    "question": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 80,
+    "optionA": "4% of a",
+    "optionB": "5% of a",
+    "optionC": "20% of a",
+    "optionD": "None of these",
+    "question": "If 20% of a = b, then b% of 20 is the same as:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "D",
+    "id": 81,
+    "optionA": "M - N x C + F",
+    "optionB": "F - C + N x M",
+    "optionC": "N + M - F x C",
+    "optionD": "M x N - C + F",
+    "question": "If \"A + B\" means A is the brother of B; \"A - B\" means A is the sister of B and \"A x B\" means A is the father of B. Which of the following means that C is the son of M?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 82,
+    "optionA": "302",
+    "optionB": "298",
+    "optionC": "312",
+    "optionD": "324",
+    "question": "Find the missing number in the sequence: 4, 12, 30, 68, 146, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 83,
+    "optionA": "His own",
+    "optionB": "His son's",
+    "optionC": "His father's",
+    "optionD": "His nephew's",
+    "question": "Pointing to a photograph, a man said, \"I have no brother or sister but that man's father is my father's son.\" Whose photograph was it?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 84,
+    "optionA": "E",
+    "optionB": "C",
+    "optionC": "F",
+    "optionD": "None",
+    "question": "Seven people A, B, C, D, E, F, and G are sitting in a circle. C is between A and F. G is between F and E. D is to the left of B. A is to the right of B. Who is sitting between B and D?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 85,
+    "optionA": "18-1-9-14",
+    "optionB": "18-5-9-14",
+    "optionC": "17-1-9-14",
+    "optionD": "18-1-10-14",
+    "question": "In a certain code, \"FIRE\" is written as \"6-9-18-5\" and \"SNOW\" is written as \"19-14-15-23\". How is \"RAIN\" written?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 86,
+    "optionA": "Only I follows",
+    "optionB": "Only II follows",
+    "optionC": "Both I and II follow",
+    "optionD": "Neither I nor II follows",
+    "question": "Statements: All Mangoes are Golden. No Golden is cheap. Conclusions: I. All Mangoes are cheap. II. Golden things are not Mangoes.",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 87,
+    "optionA": "21",
+    "optionB": "14",
+    "optionC": "17",
+    "optionD": "3",
+    "question": "Find the odd one out: 3, 5, 11, 14, 17, 21",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 88,
+    "optionA": "Monday",
+    "optionB": "Tuesday",
+    "optionC": "Wednesday",
+    "optionD": "Thursday",
+    "question": "If 1st October is Sunday, then 1st November will be:",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 89,
+    "optionA": "78",
+    "optionB": "136",
+    "optionC": "156",
+    "optionD": "196",
+    "question": "A clock strikes once at 1 o'clock, twice at 2 o'clock, and so on. How many times will it strike in 24 hours?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 90,
+    "optionA": "25",
+    "optionB": "50",
+    "optionC": "55",
+    "optionD": "65",
+    "question": "How many squares are there in a 5x5 chessboard?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 91,
+    "optionA": "West",
+    "optionB": "South",
+    "optionC": "North-East",
+    "optionD": "South-West",
+    "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 92,
+    "optionA": "P104P",
+    "optionB": "P105P",
+    "optionC": "Q105P",
+    "optionD": "P105Q",
+    "question": "Identify the next term: Z1A, X2D, V6G, T15J, R40M, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 93,
+    "optionA": "100",
+    "optionB": "102",
+    "optionC": "104",
+    "optionD": "106",
+    "question": "Which number replaces the question mark? 8, 15, 28, 53, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 94,
+    "optionA": "E",
+    "optionB": "C",
+    "optionC": "D",
+    "optionD": "None",
+    "question": "Six persons A, B, C, D, E, and F are standing in a circle. B is between D and C. A is between E and C. F is to the right of D. Who is between A and F?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 95,
+    "optionA": "Only I is strong",
+    "optionB": "Only II is strong",
+    "optionC": "Both are strong",
+    "optionD": "Neither is strong",
+    "question": "Statement: Should students take part in politics? Argument I: Yes, it develops leadership. Argument II: No, they should study.",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 96,
+    "optionA": "60 deg",
+    "optionB": "75 deg",
+    "optionC": "85 deg",
+    "optionD": "90 deg",
+    "question": "What is the angle between the hands of a clock at 8:30?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 97,
+    "optionA": "Red",
+    "optionB": "Blue",
+    "optionC": "Yellow",
+    "optionD": "White",
+    "question": "If \"white\" is called \"blue\", \"blue\" is called \"red\", \"red\" is called \"yellow\", what is the color of blood?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 98,
+    "optionA": "315",
+    "optionB": "342",
+    "optionC": "412",
+    "optionD": "512",
+    "question": "Complete the series: 7, 26, 63, 124, 215, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 99,
+    "optionA": "Geometry",
+    "optionB": "Algebra",
+    "optionC": "Calculus",
+    "optionD": "Thermodynamics",
+    "question": "Choose the word that is least like the others: Geometry, Algebra, Calculus, Thermodynamics",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 100,
+    "optionA": "ITMFKD",
+    "optionB": "ITNFKD",
+    "optionC": "KVOHMF",
+    "optionD": "TIMFKD",
+    "question": "If FISH is written as EHRG in a certain code, how would JUNGLE be written?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 101,
+    "optionA": "Detest",
+    "optionB": "Adore",
+    "optionC": "Abjure",
+    "optionD": "Abridge",
+    "question": "Choose the word most opposite in meaning to: ABHOR",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 102,
+    "optionA": "Accomodation",
+    "optionB": "Accommodation",
+    "optionC": "Acomodation",
+    "optionD": "Accommadation",
+    "question": "Find the correctly spelt word:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 103,
+    "optionA": "Theoretical",
+    "optionB": "Practical",
+    "optionC": "Perfect",
+    "optionD": "Arrogant",
+    "question": "Choose the synonym of: PRAGMATIC",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 104,
+    "optionA": "No error",
+    "optionB": "is greater than",
+    "optionC": "that of any other",
+    "optionD": "The population of Tokyo",
+    "question": "Identify the error: \"The population of Tokyo / is greater than / that of any other / city in the world.\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 105,
+    "optionA": "To help someone",
+    "optionB": "To desert someone in difficulty",
+    "optionC": "To respect someone",
+    "optionD": "To ignore a friend",
+    "question": "Select the correct idiom meaning: \"To leave someone in the lurch\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 106,
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "was",
+    "optionD": "has",
+    "question": "Fill in the blank: The committee _____ divided in their opinion.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 107,
+    "optionA": "A short essay",
+    "optionB": "Words inscribed on a tomb",
+    "optionC": "A funny story",
+    "optionD": "A long poem",
+    "question": "Meaning of \"Epitaph\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 108,
+    "optionA": "The beggar was laughed by the boy.",
+    "optionB": "The beggar was laughed at by the boy.",
+    "optionC": "The beggar was being laughed by the boy.",
+    "optionD": "The beggar is laughed at by the boy.",
+    "question": "Change to Passive Voice: \"The boy laughed at the beggar.\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 109,
+    "optionA": "Frank",
+    "optionB": "Devious",
+    "optionC": "Sincere",
+    "optionD": "Playful",
+    "question": "Antonym of: CANDID",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 110,
+    "optionA": "to",
+    "optionB": "with",
+    "optionC": "of",
+    "optionD": "for",
+    "question": "Fill in the blank: He is blind _____ his own faults.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 111,
+    "optionA": "Careful",
+    "optionB": "Careless",
+    "optionC": "Mutual",
+    "optionD": "Merit",
+    "question": "Synonym of: METICULOUS",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 112,
+    "optionA": "He said that he is unwell.",
+    "optionB": "He said that he was unwell.",
+    "optionC": "He said he is unwell.",
+    "optionD": "He says he was unwell.",
+    "question": "Change to Indirect Speech: \"He said, I am unwell.\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 113,
+    "optionA": "Misogynist",
+    "optionB": "Misanthrope",
+    "optionC": "Philanthropist",
+    "optionD": "Optimist",
+    "question": "One word substitution: \"A person who hates mankind\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 114,
+    "optionA": "of",
+    "optionB": "to",
+    "optionC": "for",
+    "optionD": "at",
+    "question": "Fill in the blank: Hard work is the key _____ success.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 115,
+    "optionA": "To see a rat",
+    "optionB": "To smell bad",
+    "optionC": "To suspect a trick",
+    "optionD": "To misunderstand",
+    "question": "Meaning of \"To smell a rat\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 116,
+    "optionA": "He is a M.A.",
+    "optionB": "He is an M.A.",
+    "optionC": "He is the M.A.",
+    "optionD": "He are M.A.",
+    "question": "Identify the correct sentence:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 117,
+    "optionA": "Permanent",
+    "optionB": "Temporary",
+    "optionC": "Transparent",
+    "optionD": "Transfer",
+    "question": "Synonym of: TRANSIENT",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 118,
+    "optionA": "Arrival",
+    "optionB": "Departure",
+    "optionC": "Exit",
+    "optionD": "Return",
+    "question": "Antonym of: EXODUS",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 119,
+    "optionA": "for",
+    "optionB": "from",
+    "optionC": "since",
+    "optionD": "until",
+    "question": "Fill in the blank: I have been waiting here _____ morning.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 120,
+    "optionA": "Regretfully",
+    "optionB": "Deliberately",
+    "optionC": "Accidentally",
+    "optionD": "Emotionally",
+    "question": "Meaning of \"In cold blood\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 121,
+    "optionA": "Current students",
+    "optionB": "Former students",
+    "optionC": "Teachers",
+    "optionD": "Managers",
+    "question": "Meaning of \"Alumni\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 122,
+    "optionA": "Existing condition",
+    "optionB": "Current law",
+    "optionC": "New order",
+    "optionD": "High rank",
+    "question": "Meaning of \"Status Quo\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 123,
+    "optionA": "Zoology",
+    "optionB": "Ornithology",
+    "optionC": "Botany",
+    "optionD": "Geology",
+    "question": "The study of birds is:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 124,
+    "optionA": "Obscure",
+    "optionB": "Clear",
+    "optionC": "Dull",
+    "optionD": "Unknown",
+    "question": "Antonym of: VAGUE",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 125,
+    "optionA": "has",
+    "optionB": "have",
+    "optionC": "is",
+    "optionD": "was",
+    "question": "Fill in blank: Neither he nor his friends _____ arrived.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 126,
+    "optionA": "A letter is written by her.",
+    "optionB": "A letter is being written by her.",
+    "optionC": "A letter was written by her.",
+    "optionD": "A letter has been written by her.",
+    "question": "Passive voice: \"She is writing a letter\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 127,
+    "optionA": "Legally",
+    "optionB": "In reality",
+    "optionC": "For example",
+    "optionD": "By force",
+    "question": "Meaning of \"De facto\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 128,
+    "optionA": "Keep",
+    "optionB": "Forsake",
+    "optionC": "Follow",
+    "optionD": "Adopt",
+    "question": "Synonym of: ABANDON",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 129,
+    "optionA": "Better",
+    "optionB": "Best",
+    "optionC": "Good",
+    "optionD": "Most good",
+    "question": "Fill in blank: This is the _____ book of the two.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 130,
+    "optionA": "Stoic",
+    "optionB": "Sadist",
+    "optionC": "Psychic",
+    "optionD": "Aristocrat",
+    "question": "One word: \"A person indifferent to pleasure or pain\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 131,
+    "optionA": "Listen to a wolf",
+    "optionB": "Give false alarm",
+    "optionC": "Be brave",
+    "optionD": "Keep a dog",
+    "question": "Meaning of \"To cry wolf\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 132,
+    "optionA": "Panacea",
+    "optionB": "Antibiotic",
+    "optionC": "Universal",
+    "optionD": "Medicine",
+    "question": "One word substitution: \"A remedy for all diseases\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 133,
+    "optionA": "Exception",
+    "optionB": "Objection",
+    "optionC": "Exemption",
+    "optionD": "Rejection",
+    "question": "Fill in blank: I have no _____ to the proposal.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 134,
+    "optionA": "Occurrence",
+    "optionB": "Omission",
+    "optionC": "Opportunity",
+    "optionD": "Occasion",
+    "question": "Identify misspelt word:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 135,
+    "optionA": "She is more taller than me.",
+    "optionB": "She is taller than I.",
+    "optionC": "She is more tall than I.",
+    "optionD": "She is taller then me.",
+    "question": "Choose correct sentence:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 136,
+    "optionA": "Destroy",
+    "optionB": "Correct",
+    "optionC": "Repeat",
+    "optionD": "Bend",
+    "question": "Synonym of: RECTIFY",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 137,
+    "optionA": "Old",
+    "optionB": "Ancient",
+    "optionC": "Modern",
+    "optionD": "Fresh",
+    "question": "Antonym of: ARCHAIC",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 138,
+    "optionA": "in",
+    "optionB": "into",
+    "optionC": "on",
+    "optionD": "to",
+    "question": "Fill in blank: He jumped _____ the river.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 139,
+    "optionA": "Acme",
+    "optionB": "Top",
+    "optionC": "Nadír",
+    "optionD": "Apex",
+    "question": "Antonym of: ZENITH",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 140,
+    "optionA": "Verbose",
+    "optionB": "Brief",
+    "optionC": "Detailed",
+    "optionD": "Lazy",
+    "question": "Choose synonym of: LACONIC",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "D",
+    "id": 141,
+    "optionA": "65",
+    "optionB": "75",
+    "optionC": "81",
+    "optionD": "91",
+    "question": "How many ways can a committee of 5 be formed from 5 men and 4 women such that at least 3 men are on the committee?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 142,
+    "optionA": "5%",
+    "optionB": "10%",
+    "optionC": "12%",
+    "optionD": "15%",
+    "question": "A sum of money double itself in 10 years at simple interest. What is the rate of interest?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 143,
+    "optionA": "8",
+    "optionB": "9",
+    "optionC": "10",
+    "optionD": "12",
+    "question": "A and B can complete a work in 12 and 18 days. They begin together but A leaves 3 days before the work is finished. Total days to finish?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 144,
+    "optionA": "1:3",
+    "optionB": "2:3",
+    "optionC": "3:1",
+    "optionD": "4:3",
+    "question": "The ratio of the volume of a right circular cylinder and a cone of same height and same base radius is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 145,
+    "optionA": "2:3",
+    "optionB": "4:9",
+    "optionC": "16:81",
+    "optionD": "sqrt(2):sqrt(3)",
+    "question": "If the ratio of the areas of two circles is 4:9, the ratio of their circumferences is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 146,
+    "optionA": "7.5 hrs",
+    "optionB": "8 hrs",
+    "optionC": "9 hrs",
+    "optionD": "10 hrs",
+    "question": "Two pipes can fill a tank in 10 and 12 hours respectively; while a third pipe empties it in 20 hours. If all are open, the tank fills in:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 147,
+    "optionA": "Rs. 1090",
+    "optionB": "Rs. 1160",
+    "optionC": "Rs. 1190",
+    "optionD": "Rs. 1202",
+    "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 148,
+    "optionA": "1/6",
+    "optionB": "1/8",
+    "optionC": "1/9",
+    "optionD": "1/12",
+    "question": "What is the probability of getting a sum of 9 from two throws of a dice?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 149,
+    "optionA": "Rs. 123",
+    "optionB": "Rs. 133",
+    "optionC": "Rs. 143",
+    "optionD": "Rs. 153",
+    "question": "Find the simple interest on Rs. 7300 at 5% per annum for the period from May 11 to Sept 22 (same year).",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 150,
+    "optionA": "2334 cm3",
+    "optionB": "4056 cm3",
+    "optionC": "4913 cm3",
+    "optionD": "3456 cm3",
+    "question": "The surface area of a cube is 1734 sq. cm. Its volume is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 151,
+    "optionA": "3",
+    "optionB": "4",
+    "optionC": "5",
+    "optionD": "None",
+    "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 152,
+    "optionA": "200m",
+    "optionB": "225m",
+    "optionC": "245m",
+    "optionD": "250m",
+    "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 153,
+    "optionA": "0",
+    "optionB": "2",
+    "optionC": "4",
+    "optionD": "6",
+    "question": "If $3^{(x-y)} = 27$ and $3^{(x+y)} = 243$, then x is equal to:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 154,
+    "optionA": "80 cm",
+    "optionB": "104 cm",
+    "optionC": "110 cm",
+    "optionD": "114 cm",
+    "question": "A square and a rectangle have equal areas. If the side of the square is 24 cm and the width of the rectangle is 16 cm, find the perimeter of the rectangle.",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 155,
+    "optionA": "10 L",
+    "optionB": "12 L",
+    "optionC": "15 L",
+    "optionD": "18 L",
+    "question": "A mixture contains alcohol and water in the ratio 4:3. If 5 liters of water is added, the ratio becomes 4:5. Find the quantity of alcohol.",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 156,
+    "optionA": "3",
+    "optionB": "4",
+    "optionC": "9",
+    "optionD": "None",
+    "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the digits?",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 157,
+    "optionA": "1.12",
+    "optionB": "1.2",
+    "optionC": "1.25",
+    "optionD": "1.3",
+    "question": "If 0.75:x :: 5:8, then x is equal to:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 158,
+    "optionA": "0.6",
+    "optionB": "0.06",
+    "optionC": "0.006",
+    "optionD": "None",
+    "question": "The cube root of 0.000216 is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "C",
+    "id": 159,
+    "optionA": "37",
+    "optionB": "38.5",
+    "optionC": "39.8",
+    "optionD": "41",
+    "question": "Average of all prime numbers between 30 and 50 is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "A",
+    "id": 160,
+    "optionA": "2/n",
+    "optionB": "1/n",
+    "optionC": "2(n-1)/n",
+    "optionD": "None",
+    "question": "The value of $(1 - 1/3)(1 - 1/4)(1 - 1/5)...(1 - 1/n)$ is:",
+    "section": "Aptitude"
+  },
+  {
+    "correctOption": "B",
+    "id": 161,
+    "optionA": "20",
+    "optionB": "22",
+    "optionC": "23",
+    "optionD": "26",
+    "question": "Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 162,
+    "optionA": "Only I follows",
+    "optionB": "Only II follows",
+    "optionC": "Both follow",
+    "optionD": "Neither follows",
+    "question": "Statement: All windows are doors. No door is a wall. Conclusion I: No window is a wall. Conclusion II: No wall is a door.",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 163,
+    "optionA": "EFMIJ",
+    "optionB": "EFMIK",
+    "optionC": "FGMJK",
+    "optionD": "EFMIH",
+    "question": "In a code, \"LONDON\" is \"MPPEPO\". What is \"DELHI\"?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 164,
+    "optionA": "North-East",
+    "optionB": "North-West",
+    "optionC": "South-East",
+    "optionD": "South-West",
+    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 165,
+    "optionA": "Grandmother",
+    "optionB": "Grandfather",
+    "optionC": "Daughter",
+    "optionD": "Granddaughter",
+    "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 166,
+    "optionA": "Tyre",
+    "optionB": "Steering Wheel",
+    "optionC": "Engine",
+    "optionD": "Car",
+    "question": "Which word does NOT belong with the others?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 167,
+    "optionA": "Cloud",
+    "optionB": "Star",
+    "optionC": "Sky",
+    "optionD": "Tree",
+    "question": "If \"sky\" is \"star\", \"star\" is \"cloud\", \"cloud\" is \"earth\", \"earth\" is \"tree\", where do birds fly?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 168,
+    "optionA": "481",
+    "optionB": "511",
+    "optionC": "391",
+    "optionD": "421",
+    "question": "Find the missing number: 7, 26, 63, 124, 215, 342, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 169,
+    "optionA": "North",
+    "optionB": "North-West",
+    "optionC": "South-East",
+    "optionD": "North-East",
+    "question": "A clock shows 4:30. If the minute hand points East, in what direction will the hour hand point?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 170,
+    "optionA": "True",
+    "optionB": "False",
+    "optionC": "Probably True",
+    "optionD": "Probably False",
+    "question": "Statement: Most people who stop smoking gain weight. Conclusion: If one stops smoking, one will gain weight.",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "D",
+    "id": 171,
+    "optionA": "30",
+    "optionB": "18",
+    "optionC": "20",
+    "optionD": "9",
+    "question": "If 54+43=2, 60+51=10, then 62+72=?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 172,
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "question": "How many 7s are there in the following series which are preceded by 6 which is not preceded by 8? 8767867567",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 173,
+    "optionA": "Mother-in-law",
+    "optionB": "Sister of father-in-law",
+    "optionC": "Grandmother",
+    "optionD": "Maternal Aunt",
+    "question": "Pointing to a lady, a man said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the man?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 174,
+    "optionA": "54",
+    "optionB": "45",
+    "optionC": "10",
+    "optionD": "80",
+    "question": "Choose the odd one: 10, 25, 45, 54, 60, 75, 80",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 175,
+    "optionA": "8",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "9",
+    "question": "In a certain code, \"786\" means \"study very hard\", \"958\" means \"hard work pays\". What is the code for \"hard\"?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 176,
+    "optionA": "Tuesday",
+    "optionB": "Wednesday",
+    "optionC": "Thursday",
+    "optionD": "Friday",
+    "question": "If the day before yesterday was Saturday, what day will it be the day after tomorrow?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 177,
+    "optionA": "2",
+    "optionB": "3",
+    "optionC": "6",
+    "optionD": "0",
+    "question": "A is 3 years older than B and 3 years younger than C. B and D are twins. How many years older is C than D?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 178,
+    "optionA": "Awl : Wood",
+    "optionB": "Nail : Hammer",
+    "optionC": "Shears : Paper",
+    "optionD": "Stone : Sculptor",
+    "question": "Scythe : Grass :: ? : ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "C",
+    "id": 179,
+    "optionA": "25th",
+    "optionB": "26th",
+    "optionC": "27th",
+    "optionD": "28th",
+    "question": "In a class of 45 students, a boy is ranked 20th. When two boys joined, his rank was dropped by one. What is his new rank from end?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "A",
+    "id": 180,
+    "optionA": "216",
+    "optionB": "256",
+    "optionC": "343",
+    "optionD": "196",
+    "question": "Insert missing figure: 1, 8, 27, 64, 125, ?",
+    "section": "Reasoning"
+  },
+  {
+    "correctOption": "B",
+    "id": 181,
+    "optionA": "Verbose",
+    "optionB": "Brief",
+    "optionC": "Detailed",
+    "optionD": "Lazy",
+    "question": "Choose the synonym of: LACONIC",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 182,
+    "optionA": "Acme",
+    "optionB": "Top",
+    "optionC": "Nadír",
+    "optionD": "Apex",
+    "question": "Choose the antonym of: ZENITH",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 183,
+    "optionA": "To listen to a wolf",
+    "optionB": "To give false alarm",
+    "optionC": "To be brave",
+    "optionD": "To keep a dog",
+    "question": "Meaning of idiom: \"To cry wolf\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 184,
+    "optionA": "Panacea",
+    "optionB": "Antibiotic",
+    "optionC": "Universal",
+    "optionD": "Medicine",
+    "question": "One word substitution: \"A remedy for all diseases\"",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 185,
+    "optionA": "Exception",
+    "optionB": "Objection",
+    "optionC": "Exemption",
+    "optionD": "Rejection",
+    "question": "Fill in blank: I have no _____ to the proposal.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 186,
+    "optionA": "Occurrence",
+    "optionB": "Omission",
+    "optionC": "Opportunity",
+    "optionD": "Occasion",
+    "question": "Identify misspelt word:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 187,
+    "optionA": "She is more taller than me.",
+    "optionB": "She is taller than I.",
+    "optionC": "She is more tall than I.",
+    "optionD": "She is taller then me.",
+    "question": "Choose correct sentence:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 188,
+    "optionA": "Destroy",
+    "optionB": "Correct",
+    "optionC": "Repeat",
+    "optionD": "Bend",
+    "question": "Synonym of: RECTIFY",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "C",
+    "id": 189,
+    "optionA": "Old",
+    "optionB": "Ancient",
+    "optionC": "Modern",
+    "optionD": "Fresh",
+    "question": "Antonym of: ARCHAIC",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 190,
+    "optionA": "in",
+    "optionB": "into",
+    "optionC": "on",
+    "optionD": "to",
+    "question": "Fill in blank: He jumped _____ the river.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 191,
+    "optionA": "Current students",
+    "optionB": "Former students",
+    "optionC": "Teachers",
+    "optionD": "Managers",
+    "question": "Meaning of \"Alumni\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 192,
+    "optionA": "Existing condition",
+    "optionB": "Current law",
+    "optionC": "New order",
+    "optionD": "High rank",
+    "question": "Meaning of \"Status Quo\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 193,
+    "optionA": "Zoology",
+    "optionB": "Ornithology",
+    "optionC": "Botany",
+    "optionD": "Geology",
+    "question": "The study of birds is:",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 194,
+    "optionA": "Obscure",
+    "optionB": "Clear",
+    "optionC": "Dull",
+    "optionD": "Unknown",
+    "question": "Antonym of: VAGUE",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 195,
+    "optionA": "has",
+    "optionB": "have",
+    "optionC": "is",
+    "optionD": "was",
+    "question": "Fill in blank: Neither he nor his friends _____ arrived.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 196,
+    "optionA": "A letter is written by her.",
+    "optionB": "A letter is being written by her.",
+    "optionC": "A letter was written by her.",
+    "optionD": "A letter has been written by her.",
+    "question": "Passive voice of \"She is writing a letter\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 197,
+    "optionA": "Legally",
+    "optionB": "In reality",
+    "optionC": "For example",
+    "optionD": "By force",
+    "question": "Meaning of \"De facto\":",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "B",
+    "id": 198,
+    "optionA": "Keep",
+    "optionB": "Forsake",
+    "optionC": "Follow",
+    "optionD": "Adopt",
+    "question": "Synonym of: ABANDON",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 199,
+    "optionA": "Better",
+    "optionB": "Best",
+    "optionC": "Good",
+    "optionD": "Most good",
+    "question": "Fill in blank: This is the _____ book of the two.",
+    "section": "Communication"
+  },
+  {
+    "correctOption": "A",
+    "id": 200,
+    "optionA": "Stoic",
+    "optionB": "Sadist",
+    "optionC": "Psychic",
+    "optionD": "Aristocrat",
+    "question": "One word substitution: \"A person who is indifferent to pleasure or pain\"",
+    "section": "Communication"
+  }
+]
