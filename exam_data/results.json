@@ -151,5 +151,14 @@
     "communicationCorrect": 0,
     "totalCorrect": 0,
     "percentage": 0
+  },
+  {
+    "id": 18,
+    "candidateEmail": "sample@sample.com",
+    "aptitudeCorrect": 0,
+    "reasoningCorrect": 0,
+    "communicationCorrect": 0,
+    "totalCorrect": 0,
+    "percentage": 0
   }
 ]
