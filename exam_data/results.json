@@ -493,5 +493,14 @@
     "communicationCorrect": 6,
     "totalCorrect": 21,
     "percentage": 35
+  },
+  {
+    "id": 56,
+    "candidateEmail": "www.vashnavivaishu@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 7,
+    "totalCorrect": 21,
+    "percentage": 35
   }
 ]
