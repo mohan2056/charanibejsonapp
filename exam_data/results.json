@@ -1,7 +1,7 @@
 [
   {
-    "id": 1,
-    "candidateEmail": "hbvhjvbhj@gmail.com",
+    "id": 22,
+    "candidateEmail": "karan@gmail.com",
     "aptitudeCorrect": 0,
     "reasoningCorrect": 0,
     "communicationCorrect": 0,
@@ -9,8 +9,8 @@
     "percentage": 0
   },
   {
-    "id": 2,
-    "candidateEmail": "jdkjjbjbkj@gmail.com",
+    "id": 23,
+    "candidateEmail": "divyanadem@gmail.com",
     "aptitudeCorrect": 0,
     "reasoningCorrect": 0,
     "communicationCorrect": 0,
@@ -18,44 +18,8 @@
     "percentage": 0
   },
   {
-    "id": 3,
-    "candidateEmail": "ctydfghgv@gmail.com",
-    "aptitudeCorrect": 1,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 1,
-    "percentage": 1.67
-  },
-  {
-    "id": 4,
-    "candidateEmail": "kishor@gmail.com",
-    "aptitudeCorrect": 2,
-    "reasoningCorrect": 2,
-    "communicationCorrect": 1,
-    "totalCorrect": 5,
-    "percentage": 8.33
-  },
-  {
-    "id": 5,
-    "candidateEmail": "ram@gmail.com",
-    "aptitudeCorrect": 1,
-    "reasoningCorrect": 1,
-    "communicationCorrect": 0,
-    "totalCorrect": 2,
-    "percentage": 3.33
-  },
-  {
-    "id": 6,
-    "candidateEmail": "jfhhdf@gmail.com",
-    "aptitudeCorrect": 2,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 2,
-    "percentage": 3.33
-  },
-  {
-    "id": 7,
-    "candidateEmail": "vbhvhgv@gmail.com",
+    "id": 24,
+    "candidateEmail": "madhavi@123gmail.com",
     "aptitudeCorrect": 0,
     "reasoningCorrect": 0,
     "communicationCorrect": 0,
@@ -63,102 +27,471 @@
     "percentage": 0
   },
   {
-    "id": 8,
-    "candidateEmail": "Kishor1@gmail.com",
-    "aptitudeCorrect": 1,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 2,
-    "totalCorrect": 3,
-    "percentage": 5
+    "id": 25,
+    "candidateEmail": "22c31a6640_arshinaaz@bitswgl.ac.in",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 6,
+    "totalCorrect": 23,
+    "percentage": 38.33
   },
   {
-    "id": 9,
-    "candidateEmail": "mohan@gmail.com",
-    "aptitudeCorrect": 2,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 2,
-    "percentage": 3.33
+    "id": 26,
+    "candidateEmail": "saikalyani6617.edunet@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 10,
+    "totalCorrect": 25,
+    "percentage": 41.67
   },
   {
-    "id": 10,
-    "candidateEmail": "bnjfdij@gmail.com",
-    "aptitudeCorrect": 2,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 1,
-    "totalCorrect": 3,
-    "percentage": 5
+    "id": 27,
+    "candidateEmail": "ashrithakurapati2222@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 9,
+    "totalCorrect": 21,
+    "percentage": 35
   },
   {
-    "id": 11,
-    "candidateEmail": "nikhil@gmail.com",
-    "aptitudeCorrect": 6,
-    "reasoningCorrect": 2,
+    "id": 28,
+    "candidateEmail": "bandinamratha09@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 3,
+    "communicationCorrect": 10,
+    "totalCorrect": 18,
+    "percentage": 30
+  },
+  {
+    "id": 29,
+    "candidateEmail": "babbararavali@gmail.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 6,
+    "totalCorrect": 19,
+    "percentage": 31.67
+  },
+  {
+    "id": 30,
+    "candidateEmail": "srija6661.edunet@gmail.com",
+    "aptitudeCorrect": 4,
+    "reasoningCorrect": 6,
+    "communicationCorrect": 3,
+    "totalCorrect": 13,
+    "percentage": 21.67
+  },
+  {
+    "id": 31,
+    "candidateEmail": "bhumidharavath15@gmail.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 5,
     "communicationCorrect": 4,
     "totalCorrect": 12,
     "percentage": 20
   },
   {
-    "id": 12,
-    "candidateEmail": "nikhil1234@gmail.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 32,
+    "candidateEmail": "bushrasamreen05@gmail.com",
+    "aptitudeCorrect": 8,
+    "reasoningCorrect": 14,
+    "communicationCorrect": 13,
+    "totalCorrect": 35,
+    "percentage": 58.33
   },
   {
-    "id": 13,
-    "candidateEmail": "tydfgtf@gmail.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 33,
+    "candidateEmail": "shirishagogu24@gmal.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 9,
+    "totalCorrect": 19,
+    "percentage": 31.67
   },
   {
-    "id": 14,
-    "candidateEmail": "fygffg@gmail.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 34,
+    "candidateEmail": "bandarusriram5@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 7,
+    "totalCorrect": 22,
+    "percentage": 36.67
   },
   {
-    "id": 15,
-    "candidateEmail": "vgvcdg@gmail.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 35,
+    "candidateEmail": "thummalamadhavi404@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 8,
+    "totalCorrect": 20,
+    "percentage": 33.33
   },
   {
-    "id": 16,
-    "candidateEmail": "hbfhh@gmail.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 36,
+    "candidateEmail": "tejagangula111@gmail.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 7,
+    "totalCorrect": 20,
+    "percentage": 33.33
   },
   {
-    "id": 17,
-    "candidateEmail": "test@test.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
-    "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "id": 37,
+    "candidateEmail": "nademdivya@gmail.com",
+    "aptitudeCorrect": 2,
+    "reasoningCorrect": 13,
+    "communicationCorrect": 10,
+    "totalCorrect": 25,
+    "percentage": 41.67
   },
   {
-    "id": 18,
-    "candidateEmail": "sample@sample.com",
-    "aptitudeCorrect": 0,
-    "reasoningCorrect": 0,
+    "id": 38,
+    "candidateEmail": "kalpanagadam60@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 13,
+    "communicationCorrect": 10,
+    "totalCorrect": 29,
+    "percentage": 48.33
+  },
+  {
+    "id": 39,
+    "candidateEmail": "sneharajvanam99@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 6,
+    "totalCorrect": 18,
+    "percentage": 30
+  },
+  {
+    "id": 40,
+    "candidateEmail": "djangapalli@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 5,
+    "communicationCorrect": 5,
+    "totalCorrect": 16,
+    "percentage": 26.67
+  },
+  {
+    "id": 41,
+    "candidateEmail": "srilekhapuppy14@gmail.com",
+    "aptitudeCorrect": 2,
+    "reasoningCorrect": 5,
+    "communicationCorrect": 6,
+    "totalCorrect": 13,
+    "percentage": 21.67
+  },
+  {
+    "id": 42,
+    "candidateEmail": "soujanyamekala676@gmail.com",
+    "aptitudeCorrect": 8,
+    "reasoningCorrect": 5,
+    "communicationCorrect": 4,
+    "totalCorrect": 17,
+    "percentage": 28.33
+  },
+  {
+    "id": 43,
+    "candidateEmail": "jhansib291@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 8,
+    "totalCorrect": 21,
+    "percentage": 35
+  },
+  {
+    "id": 44,
+    "candidateEmail": "nagasribasani12@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 9,
+    "communicationCorrect": 6,
+    "totalCorrect": 22,
+    "percentage": 36.67
+  },
+  {
+    "id": 45,
+    "candidateEmail": "jacksparrow31884@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 13,
+    "communicationCorrect": 10,
+    "totalCorrect": 30,
+    "percentage": 50
+  },
+  {
+    "id": 46,
+    "candidateEmail": "kothawalabhavyasri@gmail.com",
+    "aptitudeCorrect": 4,
+    "reasoningCorrect": 11,
+    "communicationCorrect": 10,
+    "totalCorrect": 25,
+    "percentage": 41.67
+  },
+  {
+    "id": 47,
+    "candidateEmail": "varshithadameruppula0541.edunet@gmail.com",
+    "aptitudeCorrect": 8,
+    "reasoningCorrect": 9,
+    "communicationCorrect": 8,
+    "totalCorrect": 25,
+    "percentage": 41.67
+  },
+  {
+    "id": 48,
+    "candidateEmail": "arundhathibutti533.edunet@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 8,
+    "totalCorrect": 21,
+    "percentage": 35
+  },
+  {
+    "id": 49,
+    "candidateEmail": "ashwinibelli5@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 6,
+    "communicationCorrect": 4,
+    "totalCorrect": 16,
+    "percentage": 26.67
+  },
+  {
+    "id": 50,
+    "candidateEmail": "ravali6911.edunet@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 8,
+    "totalCorrect": 22,
+    "percentage": 36.67
+  },
+  {
+    "id": 51,
+    "candidateEmail": "sarithaguguloth333@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 16,
+    "communicationCorrect": 5,
+    "totalCorrect": 26,
+    "percentage": 43.33
+  },
+  {
+    "id": 52,
+    "candidateEmail": "charugundlapavani16@gmail.com",
+    "aptitudeCorrect": 9,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 5,
+    "totalCorrect": 21,
+    "percentage": 35
+  },
+  {
+    "id": 53,
+    "candidateEmail": "pavansaipolaboina0@gmail.cm",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 8,
     "communicationCorrect": 0,
-    "totalCorrect": 0,
-    "percentage": 0
+    "totalCorrect": 14,
+    "percentage": 23.33
+  },
+  {
+    "id": 54,
+    "candidateEmail": "chaduvuashwithareddy@gmail.com",
+    "aptitudeCorrect": 10,
+    "reasoningCorrect": 12,
+    "communicationCorrect": 8,
+    "totalCorrect": 30,
+    "percentage": 50
+  },
+  {
+    "id": 55,
+    "candidateEmail": "lathapatel6905@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 5,
+    "totalCorrect": 20,
+    "percentage": 33.33
+  },
+  {
+    "id": 56,
+    "candidateEmail": "sriyachitti08@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 8,
+    "totalCorrect": 23,
+    "percentage": 38.33
+  },
+  {
+    "id": 57,
+    "candidateEmail": "dhilluevergreen@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 7,
+    "totalCorrect": 20,
+    "percentage": 33.33
+  },
+  {
+    "id": 58,
+    "candidateEmail": "rainimaruthi@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 4,
+    "communicationCorrect": 5,
+    "totalCorrect": 16,
+    "percentage": 26.67
+  },
+  {
+    "id": 59,
+    "candidateEmail": "krishnaprasadakkera@gmail.com",
+    "aptitudeCorrect": 8,
+    "reasoningCorrect": 9,
+    "communicationCorrect": 9,
+    "totalCorrect": 26,
+    "percentage": 43.33
+  },
+  {
+    "id": 60,
+    "candidateEmail": "veenabasva97@gmail.com",
+    "aptitudeCorrect": 11,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 3,
+    "totalCorrect": 24,
+    "percentage": 40
+  },
+  {
+    "id": 61,
+    "candidateEmail": "anushaanneboin@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 9,
+    "totalCorrect": 21,
+    "percentage": 35
+  },
+  {
+    "id": 62,
+    "candidateEmail": "sushmateja4@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 7,
+    "communicationCorrect": 10,
+    "totalCorrect": 22,
+    "percentage": 36.67
+  },
+  {
+    "id": 63,
+    "candidateEmail": "ailaaishwarya0915@gmail.com",
+    "aptitudeCorrect": 11,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 7,
+    "totalCorrect": 26,
+    "percentage": 43.33
+  },
+  {
+    "id": 64,
+    "candidateEmail": "deekondavyshnavi141@gmail.com",
+    "aptitudeCorrect": 5,
+    "reasoningCorrect": 4,
+    "communicationCorrect": 7,
+    "totalCorrect": 16,
+    "percentage": 26.67
+  },
+  {
+    "id": 65,
+    "candidateEmail": "deepuchervirala@gmail.com",
+    "aptitudeCorrect": 14,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 9,
+    "totalCorrect": 33,
+    "percentage": 55
+  },
+  {
+    "id": 66,
+    "candidateEmail": "srinithakokkonda2020@gmail.com",
+    "aptitudeCorrect": 6,
+    "reasoningCorrect": 15,
+    "communicationCorrect": 10,
+    "totalCorrect": 31,
+    "percentage": 51.67
+  },
+  {
+    "id": 67,
+    "candidateEmail": "22c31a5628_sreeja@bitswgl.ac.in",
+    "aptitudeCorrect": 4,
+    "reasoningCorrect": 12,
+    "communicationCorrect": 7,
+    "totalCorrect": 23,
+    "percentage": 38.33
+  },
+  {
+    "id": 68,
+    "candidateEmail": "punnamharshitha22@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 10,
+    "communicationCorrect": 14,
+    "totalCorrect": 31,
+    "percentage": 51.67
+  },
+  {
+    "id": 69,
+    "candidateEmail": "manishabalne630@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 12,
+    "communicationCorrect": 4,
+    "totalCorrect": 23,
+    "percentage": 38.33
+  },
+  {
+    "id": 70,
+    "candidateEmail": "22c31a0560.gonela@bitswgl.ac.in",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 6,
+    "totalCorrect": 21,
+    "percentage": 35
+  },
+  {
+    "id": 71,
+    "candidateEmail": "prempaulalladi@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 15,
+    "totalCorrect": 30,
+    "percentage": 50
+  },
+  {
+    "id": 72,
+    "candidateEmail": "janaganimeghanadh03@gmail.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 4,
+    "communicationCorrect": 5,
+    "totalCorrect": 12,
+    "percentage": 20
+  },
+  {
+    "id": 73,
+    "candidateEmail": "abubakkar27894@gmail.com",
+    "aptitudeCorrect": 4,
+    "reasoningCorrect": 8,
+    "communicationCorrect": 7,
+    "totalCorrect": 19,
+    "percentage": 31.67
+  },
+  {
+    "id": 53,
+    "candidateEmail": "thrishathithu@gmail.com",
+    "aptitudeCorrect": 4,
+    "reasoningCorrect": 4,
+    "communicationCorrect": 7,
+    "totalCorrect": 15,
+    "percentage": 25
+  },
+  {
+    "id": 54,
+    "candidateEmail": "manasakore02@gmail.com",
+    "aptitudeCorrect": 7,
+    "reasoningCorrect": 11,
+    "communicationCorrect": 10,
+    "totalCorrect": 28,
+    "percentage": 46.67
+  },
+  {
+    "id": 55,
+    "candidateEmail": "rakesh4d3.edunet@gmail.com",
+    "aptitudeCorrect": 3,
+    "reasoningCorrect": 12,
+    "communicationCorrect": 6,
+    "totalCorrect": 21,
+    "percentage": 35
   }
 ]
