@@ -1,11 +1,11 @@
 [
   {
-    "id": 150,
-    "candidateEmail": "Session2@gmail.com",
-    "aptitudeCorrect": 8,
-    "reasoningCorrect": 2,
-    "communicationCorrect": 5,
-    "totalCorrect": 15,
-    "percentage": 25
+    "id": 250,
+    "candidateEmail": "session33@gmail.com",
+    "aptitudeCorrect": 0,
+    "reasoningCorrect": 0,
+    "communicationCorrect": 0,
+    "totalCorrect": 0,
+    "percentage": 0
   }
 ]
