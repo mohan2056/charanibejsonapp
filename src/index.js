@@ -5,7 +5,7 @@ import candidateRoutes from './routes/candidateRoutes.js';
 import examRoutes from './routes/examRoutes.js';
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8085;
 
 // ============================================
 // MIDDLEWARE
@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 8080;
 app.use(
   cors({
     origin: [
-      'https://charani-onlinetest.vercel.app/',
+      'http://172.24.16.69:3000',
       'http://localhost:3000',
       'http://localhost:5173',
     ],
