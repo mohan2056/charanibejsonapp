@@ -304,5 +304,14 @@
     "communicationCorrect": 9,
     "totalCorrect": 29,
     "percentage": 48.33
+  },
+  {
+    "id": 1,
+    "candidateEmail": "vishnuthedla@gmail.com",
+    "aptitudeCorrect": 8,
+    "reasoningCorrect": 2,
+    "communicationCorrect": 5,
+    "totalCorrect": 15,
+    "percentage": 25
   }
 ]

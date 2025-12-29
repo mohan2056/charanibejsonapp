@@ -18,10 +18,7 @@ app.use(
       'http://172.24.16.69:3000',
       'http://localhost:3000',
       'http://localhost:5173',
-    ],
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['*'],
-    credentials: true,
+    ]
   })
 );
 
